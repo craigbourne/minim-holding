@@ -1,0 +1,47 @@
+body {
+	font-family: 'Poppins', sans-serif;
+	background-color: #191919;
+	color: #fff;
+	margin: 0;
+	padding: 0;
+}
+
+a {
+	color: #fff;
+}
+
+a:hover {
+	color: #39feee;
+}
+
+.container {
+	width: 80%;
+	height: 100vh;
+	margin: 0 auto;
+}
+
+.container {
+	text-align: center;
+}
+
+.logo {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.logo img {
+	height: 9vw;
+	width: 9vw;
+	margin-top: -0.35rem;
+}
+
+.logo h1 {
+	font-size: 12vw;
+	padding-left: 3vw;
+	font-weight: 400;
+}
+
+p {
+	font-size: 1.5rem;
+}
